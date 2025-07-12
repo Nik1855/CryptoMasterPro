@@ -1,0 +1,37 @@
+2025-07-12 08:57:25,224 - INFO - Запуск CryptoMasterPro
+2025-07-12 08:57:26,821 - INFO - generated new fontManager
+2025-07-12 08:57:33,360 - INFO - Запуск main.main()
+2025-07-12 08:57:33,360 - INFO - Инициализация команд
+2025-07-12 08:57:33,360 - ERROR - Ошибка в main: 'Group' object has no attribute 'cli'
+Traceback (most recent call last):
+  File "C:\Users\Christmas\Desktop\CryptoMasterPro\main.py", line 17, in main
+    setup_commands(cli)
+  File "C:\Users\Christmas\Desktop\CryptoMasterPro\commands.py", line 22, in setup_commands
+    @app.cli.command("analyze")
+     ^^^^^^^
+AttributeError: 'Group' object has no attribute 'cli'
+2025-07-12 08:57:33,362 - INFO - Завершение работы CryptoMasterPro
+2025-07-12 08:58:07,054 - INFO - Запуск CryptoMasterPro
+2025-07-12 08:58:10,672 - INFO - Запуск main.main()
+2025-07-12 08:58:10,672 - INFO - Инициализация команд
+2025-07-12 08:58:10,672 - ERROR - Ошибка в main: 'Group' object has no attribute 'cli'
+Traceback (most recent call last):
+  File "C:\Users\Christmas\Desktop\CryptoMasterPro\main.py", line 17, in main
+    setup_commands(cli)
+  File "C:\Users\Christmas\Desktop\CryptoMasterPro\commands.py", line 22, in setup_commands
+    @app.cli.command("analyze")
+     ^^^^^^^
+AttributeError: 'Group' object has no attribute 'cli'
+2025-07-12 08:58:10,674 - INFO - Завершение работы CryptoMasterPro
+2025-07-12 08:58:11,308 - INFO - Запуск CryptoMasterPro
+2025-07-12 08:58:15,058 - INFO - Запуск main.main()
+2025-07-12 08:58:15,058 - INFO - Инициализация команд
+2025-07-12 08:58:15,058 - ERROR - Ошибка в main: 'Group' object has no attribute 'cli'
+Traceback (most recent call last):
+  File "C:\Users\Christmas\Desktop\CryptoMasterPro\main.py", line 17, in main
+    setup_commands(cli)
+  File "C:\Users\Christmas\Desktop\CryptoMasterPro\commands.py", line 22, in setup_commands
+    @app.cli.command("analyze")
+     ^^^^^^^
+AttributeError: 'Group' object has no attribute 'cli'
+2025-07-12 08:58:15,060 - INFO - Завершение работы CryptoMasterPro

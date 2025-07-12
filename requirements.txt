@@ -1,0 +1,37 @@
+# Основные зависимости
+python-dotenv==1.1.1
+ccxt==4.4.94
+pandas==2.3.1
+numpy==1.26.4
+requests==2.32.4
+matplotlib==3.10.3
+plotly==6.2.0
+scikit-learn==1.7.0
+tensorflow-cpu==2.19.0
+joblib==1.5.1
+sqlalchemy==2.0.30
+python-dateutil==2.9.0
+pandas_ta==0.3.14b0
+web3==7.2.0
+schedule==1.2.0  # Исправленная версия
+tqdm==4.66.4
+
+# Дополнительные зависимости
+click==8.1.7
+beautifulsoup4==4.12.2
+textblob==0.17.1
+pyarrow==14.0.2
+pyTelegramBotAPI==4.27.0
+reportlab==4.4.2
+charset-normalizer==3.4.2
+pillow==11.3.0
+
+# Системные зависимости
+attrs==25.3.0
+wheel==0.45.1
+protobuf==5.29.5
+cryptography==45.0.5
+setuptools==78.1.0
+packaging==25.0
+pyparsing==3.2.3
+typing_extensions==4.14.1
